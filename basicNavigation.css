@@ -1,0 +1,23 @@
+ul{
+list-style: none;
+
+}
+ul li{
+float: left;
+display: block;
+box-shadow: 10px 20px 20px;
+}
+ul li a{
+  text-decoration:none;
+  color: burlywood;
+  padding: 12px 22px;
+  background-color: blueviolet;
+  
+}
+ul li a:hover{
+  text-decoration:none;
+  color: rgb(255, 255, 255);
+  padding: 12px 22px;
+  background-color: rgb(59, 4, 111);
+  box-shadow: 10px 30px 30px;
+}
